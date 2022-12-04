@@ -15,3 +15,19 @@ A bit of a pigs ear. It is a Friday night, had a day of meetings so my head is
 scrambled. Spent about an hour on it. Got the answeres fairly quickly but
 refined the solution too much. Diminishing returns I guess. This solution
 didn't feel as clean as it should.
+
+### [Day three](/03)
+
+I didn't get to the puzzle on the 3rd, instead doing it on the 4th (a Sunday).
+Actually solved while at my Mum's house watching some awful reality tv show.
+Maybe it is my mood but in this one I didn't really think about the premise in
+terms of elves and how the puzzle was framed. Instead I took it on the minimal
+terms given. Therefore it was more academic than fun. Hopefully it was just my
+mood.
+
+I picked ruby for this one as I was in the mood for a little change.
+
+I might get a chance to catch up later in the week but for now I am going to be
+one day ahead.
+
+
