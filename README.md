@@ -30,4 +30,8 @@ I picked ruby for this one as I was in the mood for a little change.
 I might get a chance to catch up later in the week but for now I am going to be
 one day ahead.
 
+### SICKNESS
 
+I got Covid over the weekend, which makes sense as to the lacklustre attempt 
+on [Day three](/03). During this time of convalescence I wont attempt any
+puzzles. I will hopefully pick it up after.
