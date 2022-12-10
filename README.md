@@ -35,3 +35,10 @@ one day ahead.
 I got Covid over the weekend, which makes sense as to the lacklustre attempt 
 on [Day three](/03). During this time of convalescence I wont attempt any
 puzzles. I will hopefully pick it up after.
+
+### GETTING BACK TO IT
+
+So I have been sick for the past week. I have recovered now to a point where I
+can think straight again. As a result I will start to try and solve these problems
+tomorrow. I doubt I'll get cauvht up in time though but you never know. Time will
+tell I guess.
